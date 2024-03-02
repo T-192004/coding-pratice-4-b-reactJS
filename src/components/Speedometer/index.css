@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  font-family: 'roboto';
+  background-size: cover;
+  height: 100vh;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.heading {
+  color: #ffffff;
+  font-size: 36px;
+  font-style: italic;
+}
+.image {
+  width: 50%;
+  height: 40%;
+}
+.speed-meter {
+  font-size: 26px;
+  font-weight: 500;
+}
+.caution{
+  color:  #cbd5e1;
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 7px;
+  border: none;
+}
+.acc-btn {
+  background-color: #0b69ff;
+}
+
+.break-btn {
+  border: solid 3px #94a3b8;
+  background-color: transparent;
+}
